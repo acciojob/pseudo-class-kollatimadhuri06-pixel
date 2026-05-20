@@ -1,17 +1,1 @@
-/*  your css code here. If applicable */
-#container{
-	margin : 20px;
-}
-#container :: before,
-#container :: after{
-	color : #f00;
-	font-size :20px;
-	display : block;
-	
-}
-#container :: before{
-	content : "Before";
-}
-#container :: after{
-	content : "After"
-}
+
